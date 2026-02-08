@@ -1,0 +1,5 @@
+[core]
+    remote = dvcstore
+['remote "dvcstore"']
+    url = s3://my-dvc-s3-project
+    region = eu-north-1
